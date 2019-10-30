@@ -4,15 +4,15 @@
       <b-container class="main pt-4 pb-5 support-us">
         <h1 class="mb-4">SUPPORT POLKASTATS</h1>
 
-        <p>PolkaStats software is open source and the service hosted at https://polkastats.io is provided for free (as in free beer).</p>
+        <p>PolkaStats software is open source and the service hosted at https://polkastats.io is provided for free (like a free beer).</p>
         
-        <p>I enjoy developing PolkaStats and providing the service without annoying ads and plant to continue doing it in that way :-).</p>
+        <p>I enjoy developing PolkaStats and providing the service without annoying ads and plan to continue doing it that way :-).</p>
 
-        <p>If you like my work and want to help me to pay the hosting or the time I spent developing and maintaining the server, you can do it in several ways.</p>
+        <p>If you like my work and want to help me pay the hosting or the time I spend developing and maintaining the server, you can do it in several ways.</p>
 
         <h2 class="mt-5 mb-4">Stake in our validators</h2>
 
-        <p>This is an easy way you can support me and the Polkadot folks at <a href="https://www.colmenalabs.org/" target="_blank">La Colmena Labs</a> blockchain colective:</p>
+        <p>This is an easy way you can support me and the Polkadot folks at <a href="https://www.colmenalabs.org/" target="_blank">La Colmena Labs</a> blockchain collective:</p>
 
         <b-card class="mb-3">
           <div class="row">
