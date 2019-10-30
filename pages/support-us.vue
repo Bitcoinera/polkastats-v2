@@ -54,8 +54,8 @@
               <img src="https://s3.amazonaws.com/keybase_processed_uploads/9769abccf1bee6c032fb5be50d6c3c05_360_360.jpg" class="img-fluid" style="max-width: 80px;">
             </div>
             <div class="col-md-10">
-              <nuxt-link :to="{name: 'intention', query: { accountId: `CoqysGbay3t3Q7hXgEmGJJquhYYpo8PqLwvW1WsUwR7KvXm` }}" title="Delega Networks validator details">
-                <h3 class="mt-1 mb-2">Delega Networks validator</h3>
+              <nuxt-link :to="{name: 'intention', query: { accountId: `CoqysGbay3t3Q7hXgEmGJJquhYYpo8PqLwvW1WsUwR7KvXm` }}" title="DelegaNetworks validator details">
+                <h3 class="mt-1 mb-2">DelegaNetworks validator</h3>
               </nuxt-link>
               <Identicon value="CoqysGbay3t3Q7hXgEmGJJquhYYpo8PqLwvW1WsUwR7KvXm" size="20" theme="polkadot" />
               <a v-bind:href="blockExplorer.account + `CoqysGbay3t3Q7hXgEmGJJquhYYpo8PqLwvW1WsUwR7KvXm`" target="_blank">
