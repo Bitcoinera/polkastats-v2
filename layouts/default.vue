@@ -19,6 +19,9 @@
                   <nuxt-link to="/validators" active-class="active" class="nav-link">Validators</nuxt-link>
                 </b-nav-item>
                 <b-nav-item>
+                  <nuxt-link to="/validators-list" active-class="active" class="nav-link">Validators List</nuxt-link>
+                </b-nav-item>
+                <b-nav-item>
                   <nuxt-link to="/support-us" active-class="active" class="nav-link">Support PolkaStats</nuxt-link>
                 </b-nav-item>              
                 <b-nav-item>
